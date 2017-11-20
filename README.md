@@ -1,33 +1,10 @@
-![](http://i.imgur.com/DUiL9yn.png)
 
-# React/Sass/Redux Boilerplate
+INSTRUCTIONS:
 
-Boilerplate and guide for a React/Sass/Redux build.
+Do the following to install, compile and run the project after installing the required programs listed above:
 
-## Getting Started
+1. Open your command prompt, navigate to this project's directory.
 
-To get started, first install all the necessary dependencies.
-```
-> npm install
-```
+2. Run "npm install", and it will install the necessary node modules and bowwer components.
 
-Run an initial webpack build
-```
-> webpack
-```
-
-Start the development server (changes will now update live in browser)
-```
-> npm run start
-```
-
-To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
-
-## Links
-
-- [Donate](https://www.patreon.com/thenewboston)
-- [thenewboston.com](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+3. Run "npm start" for a dev server. Navigate to http://localhost:3000/.
