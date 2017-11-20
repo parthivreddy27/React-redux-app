@@ -1,11 +1,11 @@
 import React from 'react';
 import {combineReducers} from 'redux';
-import UserReducer from './reducer-users';
-import ActiveUser from './reducer-active-user';
+import MovieReducer from './reducer-movies';
+import ActiveMovie from './reducer-active-movie';
 
 const allReducers = combineReducers({
-	users: UserReducer,
-	activeUser: ActiveUser
+	movies: MovieReducer,
+	activeMovie: ActiveMovie
 });
 
 export default allReducers;

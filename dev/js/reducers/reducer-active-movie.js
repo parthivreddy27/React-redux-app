@@ -3,7 +3,7 @@ import {connet} from 'react-redux';
 
 export default function(state={}, action){
 	switch(action.type){
-		case "USER_SELECTED":
+		case "MOVIE_SELECTED":
 			return action.payload;
 			break;
 	}
